@@ -8,7 +8,10 @@ const AboCard = () => {
           Durée limitée • Lorem ipsum sum sum
         </span>
       </span>
-      <div className="abo-card_inner">AboCard</div>
+      <div className="abo-card_inner">
+        <div>text content</div>
+        <div>img</div>
+      </div>
     </div>
   );
 };
