@@ -2,6 +2,7 @@ import './AboCard.scss';
 
 const AboCard = () => {
   return (
+    /* à compléter */
     <div className="abo-card">
       <span>
         <span className="abo-card_label">
