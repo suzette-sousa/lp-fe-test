@@ -1,0 +1,17 @@
+@import 'variables';
+@import 'layout';
+
+a {
+  color: var(--color-default);
+  text-decoration: none;
+}
+
+ul {
+  padding: 0;
+  list-style: none;
+}
+
+img {
+  max-width: 100%;
+  height: auto;
+}

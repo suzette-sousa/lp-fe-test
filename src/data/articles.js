@@ -17,6 +17,65 @@ export const articles = [
       ],
     },
     display_date: '2023-06-19T11:02:45Z',
+    related_stories: [
+      {
+        _id: '5FB3D25LQFB6HGJCNMFGD7I2ZQ',
+        content_restrictions: {
+          content_code: 'metered',
+        },
+        headlines: {
+          basic: 'Curabitur blandit tempus porttitor. Cras justo odio',
+        },
+        label: {
+          format: {
+            text: 'Fake',
+            url: '/fake',
+          },
+          profil: {
+            text: 'ABO',
+          },
+        },
+        subtype: 'ART:',
+        taxonomy: {
+          primary_section: {
+            _id: '/meteo',
+            additional_properties: {
+              original: {
+                site: {
+                  paywall_deactivated: 'false',
+                },
+              },
+            },
+          },
+        },
+        website_url: '/url/fake-url.php',
+      },
+      {
+        _id: 'WL63GVJWB5GYFKEBE5MZVRX3I4',
+        content_restrictions: {
+          content_code: 'metered',
+        },
+        headlines: {
+          basic:
+            'Morbi leo risus, porta ac consectetur ac, vestibulum at eros ipsum dolor sit amet, consectetur adipiscing elit',
+        },
+        label: {},
+        subtype: 'ART:',
+        taxonomy: {
+          primary_section: {
+            _id: '/meteo',
+            additional_properties: {
+              original: {
+                site: {
+                  paywall_deactivated: 'false',
+                },
+              },
+            },
+          },
+        },
+        website_url: '/url/fake-url.php',
+      },
+    ],
     distributor: {
       name: 'leparisien',
     },
@@ -397,77 +456,6 @@ export const articles = [
     },
     website_url:
       '/international/taiwan-rivalite-commerciale-la-rencontre-sous-tension-entre-antony-blinken-et-xi-jinping-19-06-2023-T3HQ24PBIBD6RLKOI3MIMUN4SM.php',
-  },
-  {
-    _id: '4Y6OEXOO3ZCTTMNJNKPFYPTQJA',
-    additional_properties: {},
-    canonical_url:
-      '/faits-divers/un-quatuor-dultra-droite-raciste-antisemite-et-supremaciste-devant-la-cour-dassises-speciale-de-paris-19-06-2023-4Y6OEXOO3ZCTTMNJNKPFYPTQJA.php',
-    content_restrictions: {
-      content_code: 'hard-paywall',
-    },
-    credits: {
-      by: [
-        {
-          display_name: 'Timothée Boutry',
-          name: 'Timothée  Boutry',
-          type: 'author',
-        },
-      ],
-    },
-    description: {
-      basic: '',
-    },
-    display_date: '2023-06-19T04:30:22Z',
-    distributor: {
-      name: 'leparisien',
-    },
-    first_publish_date: '2023-06-19T04:30:22Z',
-    headlines: {
-      basic:
-        "Un quatuor d'ultra-droite raciste, antisémite et suprémaciste devant la Cour d'assises spéciale de Paris",
-    },
-    label: {
-      profil: {
-        text: 'ABO',
-      },
-    },
-    promo_items: {
-      basic: {
-        additional_properties: {},
-        caption:
-          "Aux yeux des juges d'instruction, l'acquisition d'armes, la recherche de cibles, l'organisation d'entraînement au tir, la constitution d'une cellule clandestine attestent du désir de passage à l'acte de ce quatuor. Anne-Gaëlle Amiot pour Le Parisien",
-        height: 593,
-        type: 'image',
-        url: '/D3U45OMSXBFVLE7J7RCDTYDJ4A-min.jpg',
-        width: 949,
-      },
-    },
-    publish_date: '2023-06-19T04:30:22Z',
-    related_content: {
-      basic: [],
-    },
-    source: {
-      name: 'leparisien',
-      system: 'composer',
-    },
-    subheadlines: {
-      basic:
-        "Les quatre accusés, dont un ancien militaire, échangeaient sur le forum Waffenkraft (puissance de feu) créé par l'un d'entre eux. Abreuvés de textes violents, ils avaient participé à une séance de tir en forêt et avaient envisagé des cibles.",
-    },
-    subtype: 'ART:',
-    taxonomy: {
-      primary_section: {
-        _id: '/faits-divers',
-        additional_properties: {
-          original: {
-            site: {},
-          },
-        },
-      },
-    },
-    website_url:
-      '/faits-divers/un-quatuor-dultra-droite-raciste-antisemite-et-supremaciste-devant-la-cour-dassises-speciale-de-paris-19-06-2023-4Y6OEXOO3ZCTTMNJNKPFYPTQJA.php',
   },
   {
     _id: 'OTX2X2LLRJCRJGD65VYZGAGNK4',

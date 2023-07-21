@@ -41,7 +41,7 @@ export default function Header() {
             <a href="/">
               <div
                 className="lp-logo lp-logo--le-parisien"
-                style={{ width: 12 + "rem" }}
+                style={{ width: 12 + 'rem' }}
               >
                 <svg viewBox="0 0 128 40">
                   <g fill="none" fillRule="evenodd">
@@ -111,7 +111,7 @@ export default function Header() {
               className="lp-button lp-button--subscription lp-button--size-40  "
               type="button"
             >
-              <span className="lp-button__label">S'abonner</span>
+              <span className="lp-button__label">S&apos;abonner</span>
             </button>
           </div>
         </div>

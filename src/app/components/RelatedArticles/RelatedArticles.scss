@@ -1,0 +1,26 @@
+@use '../../styles/utils';
+
+.related-articles {
+  padding-inline: var(--gutter-default);
+  padding-block: var(--gutter-default);
+
+  @media screen and (min-width: 769px) {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    grid-column-gap: var(--gutter-default);
+    padding-inline: 0;
+  }
+
+  &_title {
+    position: relative;
+    display: flex;
+    @extend .txt-compact;
+    font-size: 1rem;
+
+    &::before {
+      content: '\25A0';
+      color: var(--color-brand);
+      padding-inline: var(--space-xs);
+    }
+  }
+}

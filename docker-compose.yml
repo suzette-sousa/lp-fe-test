@@ -1,8 +1,13 @@
-version: "3.3"
+version: '3.3'
 services:
-    web:
-        build: .
-        volumes:
-            - .:/usr/app/
-        ports:
-            - "3000:3000"
+  web:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    volumes:
+      - ./:/app
+      - /app/node_modules
+      - /app/.next
+    ports:
+      - 3000:3000
+    working_dir: /app

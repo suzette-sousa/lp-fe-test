@@ -113,7 +113,7 @@ export default function Nav() {
             </li>
             <li className="nav__item  nav__item--secondary">
               <a className="nav__link " href="/" data-category="Guide d'achat">
-                Guide d'achat
+                Guide d&apos;achat
               </a>
             </li>
             <li className="nav__item  nav__item--secondary">

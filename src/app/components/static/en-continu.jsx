@@ -20,7 +20,7 @@ export default function EnContinu() {
                       Top chrono
                     </span>
                     Fonds Marianne&nbsp;: 5 minutes pour comprendre les dessous
-                    de l'affaire
+                    de l&apos;affaire
                     <span className="lp-card-article__date lp-color-text-muted lp-f-ui-06">
                       1 min
                     </span>
@@ -37,8 +37,8 @@ export default function EnContinu() {
                     data-page-type="HP"
                     data-block-name="En_Continu"
                   >
-                    À Nice, l'appartement-atelier de rêve du peintre Matisse est
-                    en vente
+                    À Nice, l&apos;appartement-atelier de rêve du peintre
+                    Matisse est en vente
                     <span className="lp-card-article__date lp-color-text-muted lp-f-ui-06">
                       3 min
                     </span>
@@ -55,8 +55,8 @@ export default function EnContinu() {
                     data-page-type="HP"
                     data-block-name="En_Continu"
                   >
-                    Bac pro 2023 : le sujet d'histoire géographie, enseignement
-                    moral et civique
+                    Bac pro 2023 : le sujet d&apos;histoire géographie,
+                    enseignement moral et civique
                     <span className="lp-card-article__date lp-color-text-muted lp-f-ui-06">
                       5 min
                     </span>
@@ -93,8 +93,9 @@ export default function EnContinu() {
                     data-block-name="En_Continu"
                   >
                     <span className="lp-card-article__title-tags">94</span>
-                    Val-de-Marne&nbsp;: où en est le projet «&nbsp;d'intérêt
-                    national&nbsp;» de Villeneuve-Triage&nbsp;?
+                    Val-de-Marne&nbsp;: où en est le projet
+                    «&nbsp;d&apos;intérêt national&nbsp;» de
+                    Villeneuve-Triage&nbsp;?
                     <span className="lp-card-article__date lp-color-text-muted lp-f-ui-06">
                       11 min
                     </span>
@@ -112,7 +113,7 @@ export default function EnContinu() {
                     data-block-name="En_Continu"
                   >
                     Des claquettes Disney rappelées dans toute la France pour
-                    des risques d'intoxication
+                    des risques d&apos;intoxication
                     <span className="lp-card-article__date lp-color-text-muted lp-f-ui-06">
                       22 min
                     </span>
@@ -129,8 +130,8 @@ export default function EnContinu() {
                     data-page-type="HP"
                     data-block-name="En_Continu"
                   >
-                    «&nbsp;Assassin's Creed&nbsp;»&nbsp;: un nouveau jeu et des
-                    rééditions en réalité virtuelle annoncés par Ubisoft
+                    «&nbsp;Assassin&apos;s Creed&nbsp;»&nbsp;: un nouveau jeu et
+                    des rééditions en réalité virtuelle annoncés par Ubisoft
                     <span className="lp-card-article__date lp-color-text-muted lp-f-ui-06">
                       22 min
                     </span>
@@ -149,7 +150,8 @@ export default function EnContinu() {
                   >
                     <span className="lp-card-article__title-tags">75</span>
                     Paris&nbsp;: cette prof monte sur scène en fauteuil roulant
-                    pour «&nbsp;lutter contre l'étrangeté&nbsp;» du handicap
+                    pour «&nbsp;lutter contre l&apos;étrangeté&nbsp;» du
+                    handicap
                     <span
                       className="lp-card-article__nowrap"
                       title="Réservé aux abonnés"
@@ -219,8 +221,8 @@ export default function EnContinu() {
                     data-page-type="HP"
                     data-block-name="En_Continu"
                   >
-                    Hôpital de Metz, de Sarlat… Les fermetures d'urgences
-                    pendant l'été ont déjà commencé
+                    Hôpital de Metz, de Sarlat… Les fermetures d&apos;urgences
+                    pendant l&apos;été ont déjà commencé
                     <span className="lp-card-article__date lp-color-text-muted lp-f-ui-06">
                       15h15
                     </span>
@@ -237,8 +239,8 @@ export default function EnContinu() {
                     data-page-type="HP"
                     data-block-name="En_Continu"
                   >
-                    Accusées d'« agribashing », Sandrine Rousseau et Marine
-                    Tondelier insultées dans l'Aube
+                    Accusées d&apos;« agribashing », Sandrine Rousseau et Marine
+                    Tondelier insultées dans l&apos;Aube
                     <span className="lp-card-article__date lp-color-text-muted lp-f-ui-06">
                       15h14
                     </span>
@@ -316,7 +318,7 @@ export default function EnContinu() {
                     data-block-name="En_Continu"
                   >
                     Canicule : les centrales nucléaires ont eu 24 jours de
-                    dérogations pour des rejets d'eau chaude en 2022
+                    dérogations pour des rejets d&apos;eau chaude en 2022
                     <span className="lp-card-article__date lp-color-text-muted lp-f-ui-06">
                       14h49
                     </span>
@@ -357,7 +359,7 @@ export default function EnContinu() {
                     <span className="lp-card-article__title-tags">
                       Décryptage
                     </span>
-                    Pourquoi plusieurs fournisseurs d'électricité sont
+                    Pourquoi plusieurs fournisseurs d&apos;électricité sont
                     soupçonnés de fraude
                     <span
                       className="lp-card-article__nowrap"
@@ -392,8 +394,9 @@ export default function EnContinu() {
                     data-page-type="HP"
                     data-block-name="En_Continu"
                   >
-                    «&nbsp;Canua Island&nbsp;» sur la Côte d'Azur&nbsp;: faute
-                    de permis, les promoteurs renoncent à leur plage flottante
+                    «&nbsp;Canua Island&nbsp;» sur la Côte d&apos;Azur&nbsp;:
+                    faute de permis, les promoteurs renoncent à leur plage
+                    flottante
                     <span className="lp-card-article__date lp-color-text-muted lp-f-ui-06">
                       14h02
                     </span>
@@ -526,7 +529,8 @@ export default function EnContinu() {
                     data-block-name="En_Continu"
                   >
                     Pénurie de médicaments&nbsp;: relocalisation de 50 produits,
-                    plan blanc… ce qu'il faut retenir des annonces de Macron
+                    plan blanc… ce qu&apos;il faut retenir des annonces de
+                    Macron
                     <span className="lp-card-article__date lp-color-text-muted lp-f-ui-06">
                       13h45
                     </span>
@@ -543,7 +547,7 @@ export default function EnContinu() {
                     data-page-type="HP"
                     data-block-name="En_Continu"
                   >
-                    Immobilier&nbsp;: l'accès au crédit un (tout petit) peu
+                    Immobilier&nbsp;: l&apos;accès au crédit un (tout petit) peu
                     facilité
                     <span
                       className="lp-card-article__nowrap"
@@ -578,8 +582,8 @@ export default function EnContinu() {
                     data-page-type="HP"
                     data-block-name="En_Continu"
                   >
-                    PSG&nbsp;: Mbappé dément avoir discuté d'une prolongation
-                    avec le club
+                    PSG&nbsp;: Mbappé dément avoir discuté d&apos;une
+                    prolongation avec le club
                     <span className="lp-card-article__date lp-color-text-muted lp-f-ui-06">
                       13h30
                     </span>
@@ -596,8 +600,8 @@ export default function EnContinu() {
                     data-page-type="HP"
                     data-block-name="En_Continu"
                   >
-                    VivaTech&nbsp;: comment s'entraîner à un entretien
-                    d'embauche avec un casque de réalité virtuelle
+                    VivaTech&nbsp;: comment s&apos;entraîner à un entretien
+                    d&apos;embauche avec un casque de réalité virtuelle
                     <span
                       className="lp-card-article__nowrap"
                       title="Réservé aux abonnés"
@@ -760,8 +764,8 @@ export default function EnContinu() {
                     data-block-name="En_Continu"
                   >
                     Contrats de rénovation fantômes&nbsp;: un patron suspecté
-                    d'avoir encaissé 5,9&nbsp;millions d'euros de subventions
-                    écolo
+                    d&apos;avoir encaissé 5,9&nbsp;millions d&apos;euros de
+                    subventions écolo
                     <span
                       className="lp-card-article__nowrap"
                       title="Réservé aux abonnés"
@@ -796,7 +800,7 @@ export default function EnContinu() {
                     data-block-name="En_Continu"
                   >
                     Inondations en Ukraine&nbsp;: le bilan lié à la destruction
-                    du barrage s'alourdit à 27 morts
+                    du barrage s&apos;alourdit à 27 morts
                     <span className="lp-card-article__date lp-color-text-muted lp-f-ui-06">
                       12h49
                     </span>
@@ -814,7 +818,7 @@ export default function EnContinu() {
                     data-block-name="En_Continu"
                   >
                     Agression de Kenzo&nbsp;: quatre personnes en garde à vue au
-                    commissariat d'Ajaccio
+                    commissariat d&apos;Ajaccio
                     <span className="lp-card-article__date lp-color-text-muted lp-f-ui-06">
                       12h30
                     </span>
@@ -850,8 +854,8 @@ export default function EnContinu() {
                     data-page-type="HP"
                     data-block-name="En_Continu"
                   >
-                    Eure-et-Loir&nbsp;: le renouvellement des papiers d'identité
-                    avance enfin
+                    Eure-et-Loir&nbsp;: le renouvellement des papiers
+                    d&apos;identité avance enfin
                     <span className="lp-card-article__date lp-color-text-muted lp-f-ui-06">
                       12h21
                     </span>
@@ -962,8 +966,8 @@ export default function EnContinu() {
                     data-block-name="En_Continu"
                   >
                     <span className="lp-card-article__title-tags">78</span>
-                    Mantes-la-Jolie&nbsp;: à l'école du numérique Start Zup, une
-                    formation de trois mois et un boulot quasi-assuré
+                    Mantes-la-Jolie&nbsp;: à l&apos;école du numérique Start
+                    Zup, une formation de trois mois et un boulot quasi-assuré
                     <span
                       className="lp-card-article__nowrap"
                       title="Réservé aux abonnés"
@@ -998,7 +1002,7 @@ export default function EnContinu() {
                     data-block-name="En_Continu"
                   >
                     Aide aux enfants de Dakar, sensibilisation au handicap…
-                    Courbevoie bien plus qu'un club de rugby
+                    Courbevoie bien plus qu&apos;un club de rugby
                     <span className="lp-card-article__date lp-color-text-muted lp-f-ui-06">
                       12h05
                     </span>
@@ -1069,9 +1073,9 @@ export default function EnContinu() {
                     data-block-name="En_Continu"
                   >
                     VIDÉO. «&nbsp;Une perte de 25 % du chiffre
-                    d'affaires&nbsp;»&nbsp;: avec l'interdiction du HHC,
-                    «&nbsp;la poule aux œufs d'or&nbsp;» des boutiques de CBD
-                    disparaît
+                    d&apos;affaires&nbsp;»&nbsp;: avec l&apos;interdiction du
+                    HHC, «&nbsp;la poule aux œufs d&apos;or&nbsp;» des boutiques
+                    de CBD disparaît
                     <span className="lp-card-article__date lp-color-text-muted lp-f-ui-06">
                       11h48
                     </span>
@@ -1141,7 +1145,7 @@ export default function EnContinu() {
                     data-page-type="HP"
                     data-block-name="En_Continu"
                   >
-                    Samsung&nbsp;: un ex-dirigeant accusé d'avoir volé des
+                    Samsung&nbsp;: un ex-dirigeant accusé d&apos;avoir volé des
                     secrets industriels pour créer une usine en Chine
                     <span className="lp-card-article__date lp-color-text-muted lp-f-ui-06">
                       11h39
@@ -1253,8 +1257,8 @@ export default function EnContinu() {
                     data-page-type="HP"
                     data-block-name="En_Continu"
                   >
-                    Une chanson inédite des Beatles créée grâce à l'intelligence
-                    artificielle va sortir cette année
+                    Une chanson inédite des Beatles créée grâce à
+                    l&apos;intelligence artificielle va sortir cette année
                     <span className="lp-card-article__date lp-color-text-muted lp-f-ui-06">
                       11h12
                     </span>
@@ -1268,7 +1272,7 @@ export default function EnContinu() {
       <div className="en-continu-sidebar-v2__cta lp-mt-03">
         <a className="lp-button lp-button--plain lp-button--size-36  " href="/">
           <span className="lp-button__label">
-            Suivre toute l'info en continu
+            Suivre toute l&apos;info en continu
           </span>
         </a>
       </div>

@@ -1,0 +1,40 @@
+@import 'variables';
+
+a {
+  color: var(--color-default);
+  text-decoration: none;
+}
+
+ul {
+  padding: 0;
+  list-style: none;
+}
+
+img {
+  max-width: 100%;
+  height: auto;
+}
+
+.txt-compact {
+  font-family: var(--ff-condensed);
+  font-weight: 600;
+}
+
+main {
+  display: grid;
+  grid-template-columns: minmax(0, 1fr) repeat(6, minmax(0, 80px)) minmax(
+      0,
+      1fr
+    );
+  grid-column-gap: var(--gutter-default);
+  grid-row-gap: calc(var(--gutter-default) * 2);
+  align-items: flex-start;
+  padding-block: var(--gutter-default);
+
+  @media screen and (min-width: 769px) {
+    grid-template-columns: minmax(0, 1fr) repeat(6, minmax(0, 145px)) minmax(
+        0,
+        1fr
+      );
+  }
+}

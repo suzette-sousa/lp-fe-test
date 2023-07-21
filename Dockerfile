@@ -1,16 +1,9 @@
 FROM node:18-alpine
-
-# Create app directory
-WORKDIR /usr/app
-
-# Install app dependencies
-COPY package.json package-lock.json ./
-
-RUN npm install
-
-# Bundle app source
-#COPY . .
-
+WORKDIR /app
+COPY ./package*.json .
+RUN npm install -ci
+RUN npm rebuild node-sass
+COPY . .
 EXPOSE 3000
-
-CMD [ "npm", "run", "dev" ]
+USER node
+CMD ["npm","run","dev"]

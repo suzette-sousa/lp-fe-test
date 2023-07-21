@@ -1,0 +1,26 @@
+:root {
+  --color-default: #192024;
+  --color-brand: hsl(201, 80%, 51%);
+  --color-brand-a10: hsla(201, 80%, 51%, 0.1);
+  --color-abo: #ffcc33;
+  --bg-highlight: #f5f7f8;
+  --ff-compact: GraphikCompact, Arial, sans-serif;
+  --ff-condensed: GraphikCondensed, Arial, sans-serif;
+  --space-xs: 0.5rem;
+  --space-default: 1.5rem;
+  --gutter-default: var(--space-default);
+  --color-separator: #dfe4e6;
+  --fs-default: 1rem;
+  --fs-title-xs: 1.125rem;
+  --fs-title-m: 1.5rem;
+  --fs-title-l: 1.5rem;
+  --fs-title-xl: 2rem;
+
+  @media screen and (min-width: 769px) {
+    --fs-default: 1.125rem;
+    --fs-title-xs: 1.375rem;
+    --fs-title-m: 1.75rem;
+    --fs-title-l: 2rem;
+    --fs-title-xl: 3rem;
+  }
+}
